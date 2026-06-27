@@ -5,7 +5,10 @@ Dataset Processing and Analysis
 Translation using Large Language Models (LLM)
 The goal is to preprocess an English-Hindi parallel dataset, filter high-quality sentence pairs, and evaluate translation performance using a modern LLM.
 
-google colab - https://colab.research.google.com/drive/1kp7XBv-nTdoqgthaiz2W472sTJpKykcw#scrollTo=Lxm6xYcNjYwu
+[google colab - https://colab.research.google.com/drive/1kp7XBv-nTdoqgthaiz2W472sTJpKykcw#scrollTo=Lxm6xYcNjYwu]
+
+https://colab.research.google.com/gist/HARIScyber/9869591dc1d08355c1a622230c46a2d5/harishwaran_nk9.ipynb#scrollTo=8hgZJMC2aQ0U
+
 
 Dataset Source
 Dataset used from Hugging Face:
