@@ -1,1 +1,38 @@
+Project Overview
 
+This project consists of two major tasks:
+Dataset Processing and Analysis
+Translation using Large Language Models (LLM)
+The goal is to preprocess an English-Hindi parallel dataset, filter high-quality sentence pairs, and evaluate translation performance using a modern LLM.
+
+google colab - https://colab.research.google.com/drive/1kp7XBv-nTdoqgthaiz2W472sTJpKykcw#scrollTo=Lxm6xYcNjYwu
+
+Dataset Source
+Dataset used from Hugging Face:
+English-Hindi parallel dataset
+Files:
+english-hindi-train.xlsx
+english-hindi-valid.xlsx
+Final Output Columns
+The cleaned dataset contains:
+English Sentence
+Hindi Sentence
+Word Count (English)
+Word Count (Hindi)
+Word Difference
+Character Count (English)
+Character Count (Hindi)
+Character Difference
+Task 2: Translation using LLM
+Objective
+Translate 200 English sentences into Hindi using a Large Language Model and evaluate translation quality.
+Model Used
+LLM used:
+Meta Platforms LLaMA 3 (Meta-Llama-3-8B-Instruct) 
+Translation Pipeline-  Prompt format:
+Translate this English sentence into Hindi:
+<sentence>
+Evaluation Metrics
+ up to this level of this project compltecd
+
+I using Pandas framwork on LLM Meta using Transfomers in this project  other tools i used in Github , Google Search , chategpt 
